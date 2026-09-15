@@ -1,9 +1,9 @@
 # Kowshik Narayan — Resume
 
-📄 **[Download My Resume](./kowshik_s_resume_(1).pdf)**
+📄 **[Download My Resume](https://github.com/kowshiknarayan08-prog/Resume/releases/download/v1.0/kowshik_s_resume_(1).pdf)**
 
-Please download the PDF to view my resume with the original formatting and layout.
+Click the link above to download my resume directly to your system.
 
 ---
 
-**File:** `kowshik_s_resume_(1).pdf`
+**Latest Version:** v1.0
